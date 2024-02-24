@@ -1,4 +1,4 @@
-# 👋🏽Hi, I'm Jephin!
+# 👋Hi, I'm Jephin!
 **`CE Student | Data Science Intern`**
 
 👩🏻‍💻 I am an aspiring data analyst ready to derive actionable insights from intricate datasets<br/>
