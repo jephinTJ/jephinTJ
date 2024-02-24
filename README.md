@@ -3,6 +3,7 @@
 
 👩🏻‍💻 I am an aspiring data analyst ready to derive actionable insights from intricate datasets<br/>
 👩🏻‍🎓 Pursuing Computer Engineering at St. Vincent Pallotti College, India<br/>
+✨ Believing in the mantra "Data is the new currency"<br/>
 ⚡ Also, an avid football player<br/>
 💭 Currently delving into the realms of data analytics and visualization<br/>
 ✉️ Reach me via [LinkedIn](https://www.linkedin.com/in/jephintj) & jephintj@gmail.com<br/>
