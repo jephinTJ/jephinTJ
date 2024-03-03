@@ -1,5 +1,5 @@
 ## 👋Hi, I'm Jephin!
-**`CompE'24 Student | Data Enthusiast`**
+**`CE'24 Student | Data Enthusiast`**
 
 👩🏻‍💻 I am an aspiring data analyst ready to derive actionable insights from intricate datasets<br/>
 👩🏻‍🎓 Pursuing Computer Engineering at St. Vincent Pallotti College, India<br/>
