@@ -7,7 +7,7 @@
 ⚡ Pianist. Also, an avid football player<br/>
 💭 Currently delving into the realms of data analytics and visualization<br/>
 🌐 Explore my portfolio [here!](https://www.datascienceportfol.io/Jephin)<br/>
-✉️ Reach me via [LinkedIn](https://www.linkedin.com/in/jephintj) & [Mail](jephintj@gmail.com)<br/>
+✉️ Reach me via [LinkedIn](https://www.linkedin.com/in/jephintj) & [Mail]("mailto:jephintj@gmail.com")<br/>
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
