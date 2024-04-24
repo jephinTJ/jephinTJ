@@ -6,7 +6,7 @@
 ✨ Believing in the mantra "Data is the new currency"<br/>
 ⚡ Pianist. Also, an avid football player<br/>
 💭 Currently delving into the realms of data analytics and visualization<br/>
-🌐 Explore my portfolio [here!](https://www.datascienceportfol.io/Jephin)<br/>
+🌐 Explore my portfolio [here!](https://bit.ly/3w6O9t7)<br/>
 ✉️ Reach me via [LinkedIn](https://www.linkedin.com/in/jephintj) & [Mail](mailto:jephintj@gmail.com)<br/>
 
 ## 💻 Tech Stack
