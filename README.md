@@ -1,13 +1,27 @@
-## 👋Hi, I'm Jephin!
-**`CE'24 Student | Data Enthusiast`**
+<h1 align="center">👋Hi, I'm Jephin T J</h1>
+<h3 align="center">A Computer Science undergraduate. I interrogate data hard enough and make it tell whatever I want to hear.</h3>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jephinTJ&label=Profile%20views&color=0e75b6&style=flat" alt="Jephin" /> </p>
 
 👩🏻‍💻 I am an aspiring data analyst ready to derive actionable insights from intricate datasets<br/>
+
 👩🏻‍🎓 Pursuing Computer Engineering at St. Vincent Pallotti College, India<br/>
+
 ✨ Believing in the mantra "Data is the new currency"<br/>
+
 ⚡ Pianist. Also, an avid football player<br/>
+
 💭 Currently delving into the realms of data analytics and visualization<br/>
-🌐 Explore my portfolio [here!](https://bit.ly/44vfoul)<br/>
-✉️ Reach me via [LinkedIn](https://www.linkedin.com/in/jephintj) & [Mail](mailto:jephintj@gmail.com)<br/>
+<br><br/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jephintj" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Jephin TJ"  width="40px" /></a>
+<a href="mailto:jephintj@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/mail--v1.png" alt="Jephin TJ"  width="40px" /></a>
+<a href="https://jephin-portfolio.super.site" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/resume-website.png" alt="Jephin TJ"  width="40px" /></a>
+</p>
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
