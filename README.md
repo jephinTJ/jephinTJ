@@ -1,5 +1,6 @@
 <h1 align="center">👋Hi, I'm Jephin T J</h1>
-<h3 align="center">A Computer Engineering Graduate '24. I interrogate data hard enough and make it tell whatever I want to hear.</h3>
+<h3 align="center">A Computer Engineering Graduate '24</h3>
+<h3 align="center">I interrogate data hard enough and make it tell whatever I want to hear</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
