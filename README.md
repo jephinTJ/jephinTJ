@@ -7,7 +7,7 @@
 
 👩🏻‍💻 I am an aspiring data analyst ready to derive actionable insights from intricate datasets<br/>
 
-✨ Believing in the mantra "Data is the new global currency driving innovation & economic power"<br/>
+✨ Believing in the mantra "Data: the invaluable currency powering the modern world"<br/>
 
 ⚡ Pianist. Also, an avid football player<br/>
 
