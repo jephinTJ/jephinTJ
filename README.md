@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi, I'm Jephin T J</h1>
-<h3 align="center">A Computer Science undergraduate. I interrogate data hard enough and make it tell whatever I want to hear.</h3>
+<h3 align="center">A Computer Engineering Graduate '24. I interrogate data hard enough and make it tell whatever I want to hear.</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
@@ -7,9 +7,7 @@
 
 👩🏻‍💻 I am an aspiring data analyst ready to derive actionable insights from intricate datasets<br/>
 
-👩🏻‍🎓 Pursuing Computer Engineering at St. Vincent Pallotti College, India<br/>
-
-✨ Believing in the mantra "Data is the new currency"<br/>
+✨ Believing in the mantra "Data is the new global currency driving innovation and economic power"<br/>
 
 ⚡ Pianist. Also, an avid football player<br/>
 
