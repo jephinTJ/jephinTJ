@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jephinTJ&label=Profile%20views&color=0e75b6&style=flat" alt="Jephin" /> </p>
 
-👩🏻‍💻 I am an aspiring data analyst ready to derive actionable insights from intricate datasets<br/>
+👩🏻‍💻 I am an aspiring data scientist ready to derive actionable insights from intricate datasets<br/>
 
 ✨ Believing in the mantra "Data: the invaluable currency powering the modern world"<br/>
 
